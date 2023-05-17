@@ -1,20 +1,37 @@
 {
+<<<<<<< HEAD
   "name": "MyContacts",
+=======
+  "name": "mycontacts",
+>>>>>>> d98c3b3 (first commit)
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+<<<<<<< HEAD
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "pg": "^8.5.1"
+=======
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "pg": "^8.9.0"
+>>>>>>> d98c3b3 (first commit)
   },
   "scripts": {
     "dev": "nodemon src/index.js"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "eslint": "^7.15.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
     "nodemon": "^2.0.6"
+=======
+    "eslint": "^8.33.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "nodemon": "^2.0.20"
+>>>>>>> d98c3b3 (first commit)
   }
 }
